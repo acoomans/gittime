@@ -17,4 +17,5 @@ Note: Please understand the limitations of this tool. It just gives an estimatio
 	python gittime.py repo1 [repo2 ... repoN] [email1 ... emailN]
 	
 _repoX_ is a repository url (local or remote)
+
 _emailX_ is used to filter by committer's email
